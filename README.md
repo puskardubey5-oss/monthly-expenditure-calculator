@@ -4,7 +4,7 @@ A simple and clean **HTML, CSS, JavaScript** based project that helps users calc
 
 ---
 
-## 📌 Features
+##  Features
 
 * Add expenses for:
 
@@ -18,7 +18,7 @@ A simple and clean **HTML, CSS, JavaScript** based project that helps users calc
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 monthly-expenditure-calculator/
@@ -28,7 +28,7 @@ monthly-expenditure-calculator/
 
 ---
 
-## 🚀 Demo
+##  Demo
 
 Open `index.html` directly in your browser.
 
@@ -44,7 +44,7 @@ Open `index.html` directly in your browser.
 
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 1. Enter your monthly expenses in the given fields.
 2. Click the **Calculate Total** button.
